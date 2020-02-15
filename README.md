@@ -5,8 +5,8 @@
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab-Authentication/pull/1)
-* [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab-Authentication/actions)
+* [submission PR]https://github.com/401-advanced-javascript-Shubham/lab-12b/pull/1)
+* [Github Actions](https://github.com/401-advanced-javascript-Shubham/lab-12b/actions)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
